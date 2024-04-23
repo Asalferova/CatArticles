@@ -1,10 +1,10 @@
-# [Интерактивный портал со статьями](https:// "Ссылка на сайт")
+# [Интерактивный портал со статьями](https://asalferova.github.io/CatArticles/ "Ссылка на сайт")
 
 ## Описание проекта
 
 Этот проект представляет собой интерактивное веб-приложение для отображения статей о котах, разработанное с использованием ванильного JavaScript. 
 
-   Технологии: HTML, CSS, JavaScript.
+   Технологии: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" width="50px">    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px" width="50px"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
 
    Основные функции:
 
