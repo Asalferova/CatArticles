@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./img/logo.ico" type="image/x-icon">
+    <title>MyArticles</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header class="header">Мои статьи</header>
+    <div class="page-container">
+        <button class="article__add-button">Добавить свою статью</button>
+        <label for="categories" class="article__search-label">Список категорий</label>
+        <select name="categories" id="categories" class="article__categories">
+            <option value="all">выберите категорию статей</option>
+        </select>
+        <label for="serch-article" class="article__search-label">Или найдите статью по словам в заголовке</label>
+        <input type="search" name="query" placeholder="Мяу" id="serch-article" class="article__search-input" />
+        <div class="container">
+            <div class="articles">
+
+            </div>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
